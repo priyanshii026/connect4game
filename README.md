@@ -8,7 +8,7 @@ A simple Connect4 game built using Pygame.
 
 To install and run the game, follow these steps:
 
-1-Clone the repository: 'https://github.com/rudravashishtha/connect4-pygame.git'
+1-Clone the repository: 'https://github.com/priyanshii026/connect4game'
 2-Navigate to the project directory: cd connect4_pygame
 3-Install the dependencies: pip install -r requirements.txt
 4-Run the game: python main.py
